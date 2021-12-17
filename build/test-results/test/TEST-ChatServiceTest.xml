@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChatServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-12-17T15:12:32" hostname="DESKTOP-LK4G1QT" time="0.014">
+  <properties/>
+  <testcase name="addUser" classname="ChatServiceTest" time="0.006"/>
+  <testcase name="getChatByIdShouldThrow" classname="ChatServiceTest" time="0.003"/>
+  <testcase name="createMessage" classname="ChatServiceTest" time="0.004"/>
+  <testcase name="addUserShouldThrow" classname="ChatServiceTest" time="0.001"/>
+  <testcase name="getChats" classname="ChatServiceTest" time="0.0"/>
+  <system-out><![CDATA[
+-=Пользователи Иван и Леонид открыли чат=-
+
+-=Пользователи Иван и Леонид открыли чат=-
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
